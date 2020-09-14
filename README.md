@@ -1,4 +1,4 @@
-![Header](https://github.com/tomz005/tomz005/blob/master/header.png "Header")
+![Header](https://github.com/tomz005/tomz005/blob/master/Github header.png "Header")
 ### Hi there 👋
 
 <!--

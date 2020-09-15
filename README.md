@@ -8,6 +8,12 @@ You can find me on [![LinkedIn][1.2]][1]
 [1.2]: https://github.com/tomz005/tomz005/blob/master/linkedin-3-16.png
 [1]: https://www.linkedin.com/in/tomsabu005/
 
+### 💻 Currently Working on :
+
+- WikiPedia Search 🚀
+- FreeRTOS errands 🚀
+- SimpleRA- A laughably-minimalist, integer-only, read-only RDBMS !! 🚀
+
 <!--
 **tomz005/tomz005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

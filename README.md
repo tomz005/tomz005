@@ -1,6 +1,6 @@
 ![Header](https://github.com/tomz005/tomz005/blob/master/Github%20header.png "Header")
 
-# Hello, folks! <img src="https://github.com/tomz005/tomz005/blob/master/wave.gif" width="30px">
+# Hello folks! <img src="https://github.com/tomz005/tomz005/blob/master/wave.gif" width="30px">
 My name is Tom and I am pursing Masters in Computer Science from IIIT Hyderabad.
 You can find me on [![LinkedIn][1.2]][1]
 
